@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "A Brave New Web",
+    "packageVersion": "0.1.0",
+    "useSass": true
+  }
+}
