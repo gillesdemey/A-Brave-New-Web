@@ -1,0 +1,2417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"network",
+				"networkInterfaces"
+			],
+			[
+				"networ",
+				"networkInterfaces"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"get",
+				"getMacAddress"
+			],
+			[
+				"is",
+				"isLoopBack"
+			],
+			[
+				"bonj",
+				"bonjourDevices"
+			],
+			[
+				"di",
+				"discover"
+			],
+			[
+				"all",
+				"all_the_types"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"_panes",
+				"_panesCount"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"shopp",
+				"shoppingBagVisible"
+			],
+			[
+				"shop",
+				"shoppingBagVisible"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"Glo",
+				"global-ui"
+			],
+			[
+				"pro",
+				"profileActionsVisible"
+			],
+			[
+				"po",
+				"profileActionsVisible"
+			],
+			[
+				"bka",
+				"background-color"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backgROund",
+				"background-image"
+			],
+			[
+				"$session",
+				"$sessionStorage"
+			],
+			[
+				"succ",
+				"successResponse"
+			],
+			[
+				"ng-sw",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"post",
+				"postWrapper"
+			],
+			[
+				"append",
+				"appendModal"
+			],
+			[
+				"templ",
+				"templateName"
+			],
+			[
+				"temp",
+				"templateName"
+			],
+			[
+				"modal",
+				"modalService"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"new",
+				"newScope"
+			],
+			[
+				"hide",
+				"hideDefaultUI"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"_is",
+				"_isSliding"
+			],
+			[
+				"udpa",
+				"updateContentStackService"
+			],
+			[
+				"contentSta",
+				"contentStackService"
+			],
+			[
+				"co",
+				"contentStackService"
+			],
+			[
+				"pane",
+				"panesMap"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"cons",
+				"constructPanesIndex"
+			],
+			[
+				"_pan",
+				"_paneCount-1"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"_cu",
+				"_currentPane"
+			],
+			[
+				"_curren",
+				"_currentPaneIndex"
+			],
+			[
+				"update",
+				"updateContentStackService"
+			],
+			[
+				"content",
+				"contentStackService"
+			],
+			[
+				"_pane",
+				"_paneState"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"trans",
+				"transitionToThumbnail"
+			],
+			[
+				"horizontal",
+				"horizontalStateService.currentPaneIndex"
+			],
+			[
+				"ho",
+				"horizontalStateService"
+			],
+			[
+				"isON",
+				"horizontalStateService.isOnFirstPane"
+			],
+			[
+				"pPane",
+				"pPaneIndex"
+			],
+			[
+				"pre",
+				"this.previousPaneIndex"
+			],
+			[
+				"one",
+				"this.isOnLastPane"
+			],
+			[
+				"key",
+				"keyListeners"
+			],
+			[
+				"toc",
+				"tocVisible"
+			],
+			[
+				"broad",
+				"broadcastNavigationAllowed"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"srie",
+				"scope.series"
+			],
+			[
+				"actual",
+				"actualValue"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"serie",
+				"seriesName"
+			],
+			[
+				"ac",
+				"actualValue"
+			],
+			[
+				"dis",
+				"distanceBetweenTwoYValues"
+			],
+			[
+				"prev",
+				"previousO"
+			],
+			[
+				"previous",
+				"previousIndex"
+			],
+			[
+				"displa",
+				"displayValuesForPosition"
+			],
+			[
+				"se",
+				"series"
+			],
+			[
+				"displ",
+				"displayValuesForPosition"
+			],
+			[
+				"handle",
+				"handleMouseOverGraph"
+			],
+			[
+				"Lien",
+				"LineChart"
+			],
+			[
+				"evtHover",
+				"evtHoverOutType"
+			],
+			[
+				"Line",
+				"LineChart"
+			],
+			[
+				"hoverLine",
+				"hoverLineXOffset"
+			],
+			[
+				"hover",
+				"hoverLineGroup"
+			],
+			[
+				"yAxis",
+				"yAxisLabel"
+			],
+			[
+				"radu",
+				"pointRadius"
+			],
+			[
+				"dra",
+				"drawDataPoints"
+			],
+			[
+				"charts",
+				"chartsService"
+			],
+			[
+				"zoom",
+				"this.zoomIn"
+			],
+			[
+				"touchE",
+				"touchOutElem"
+			],
+			[
+				"evtZoom",
+				"evtZoomIn"
+			],
+			[
+				"evtZom",
+				"evtZoomOut"
+			],
+			[
+				"dataL",
+				"dataLines"
+			],
+			[
+				"dataLin",
+				"dataLinesGroup"
+			],
+			[
+				"attac",
+				"attachEvents"
+			],
+			[
+				"transition",
+				"transitionStyle"
+			],
+			[
+				"random",
+				"randomize"
+			],
+			[
+				"tras",
+				"transitionDuration"
+			],
+			[
+				"michi",
+				"michiel"
+			],
+			[
+				"mi",
+				"michieldemey"
+			],
+			[
+				"ac-",
+				"ac-dark-blue"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list-st",
+				"list-style-position"
+			],
+			[
+				"backgroudn",
+				"background-image"
+			],
+			[
+				"tbl",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"sprite",
+				"spritesheet"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ac-b",
+				"ac-dark-blue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "x-blink.html",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "what-are-web-components.html",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "who-are-we.html",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "belgium.html",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web-components.html",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/templates/_index.html",
+			"settings":
+			{
+				"buffer_size": 3967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[\n    \"index.html\",\n    \"who-are-we.html\",\n    \"belgium.html\",\n    \"web-components.html\",\n    \"x-blink.html\",\n    \"what-are-web-components.html\"\n]",
+			"file": "list.json",
+			"file_size": 166,
+			"file_write_time": 130382905740000000,
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"swp",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"swap",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"soR",
+				"Sort Lines"
+			],
+			[
+				"dust",
+				"Set Syntax: Dust.js Template"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"com",
+				"Sort via CSScomb"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"wp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"disbl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"swa",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"swpa",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reni",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove bra",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"angul",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"disable ",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toggle mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/slides/web-components.sublime-project",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/slides/history.html",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/templates/_index.html",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/index.html",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/bower_components/reveal.js/js/reveal.js",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/bower_components/reveal.js/css/reveal.css",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Documents/RDF_Example.xml",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/bower_components/reveal.js/README.md",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/slides/list.json",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/Gruntfile.coffee",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/test/frequencies.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/lodash-node/compat/objects/forOwnRight.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/lodash-node/compat/objects/forOwn.js",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/format.js",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/test/bytes.js",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/.gitignore",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/npm-debug.log",
+		"/Users/gillesdemey/Development/aperture/wheatley-formatters/.travis.yml",
+		"/Users/gillesdemey/Development/steward/steward/package.json",
+		"/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/css/night.css",
+		"/Users/gillesdemey/Development/aperture/wheatley/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/utility.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/init.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/discovery.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/api/api-system.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/controllers/settings.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/public/settings/index.dust",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/utility/sysinfo.js",
+		"/Users/gillesdemey/Development/aperture/glados/.gitignore",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/wheatley-formatters/format.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/wheatley-formatters/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/controllers/index.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/app.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/public/settings/system.dust",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/node_modules/adaro/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/node_modules/adaro/index.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/wheatley-generators/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/wheatley-generators/README.md",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/wheatley-formatters/.gitignore",
+		"/Users/gillesdemey/Development/aperture/wheatley/.gitignore",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/lodash/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/moment/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/moment/moment.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/lodash/lodash.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/wheatley-formatters/bytes.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/utility/helpers.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/public/index.dust",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/routes/user.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/routes/index.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/discovery/bonjour.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/logger.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/routes/system.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/routes/settings.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/views/system.hjs",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/views/index.dust",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/views/system.dust",
+		"/Users/gillesdemey/Development/aperture/wheatley/client/views/index.hjs",
+		"/Users/gillesdemey/Development/test/controllers/index.js",
+		"/Users/gillesdemey/Development/test/config/middleware.json",
+		"/Users/gillesdemey/Development/test/config/app.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/config/config.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/models/sysinfo.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/database.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/api/api-discovery.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/moment/package.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/node_modules/mdns/package.json",
+		"/Users/gillesdemey/Development/aperture/wheatley/index.html",
+		"/Users/gillesdemey/Development/aperture/wheatley/core/discovery/discover.js",
+		"/Users/gillesdemey/Development/aperture/wheatley/.jshintrc",
+		"/Users/gillesdemey/Development/steward/steward/index.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/content-stack/_content-stack.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/services/contentstackservice.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/content-stack/content-stack.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/content-stack/content-stack.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/main-content/main-content.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/main-content/main-content.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/microsite/global-ui.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/microsite/global-ui.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/_global-ui.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/default/_global-ui.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/microsite/_global-ui.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/waffle.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/waffle.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/global-ui.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/default/global-ui.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/social.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/default/toc/_toc.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/microsite/_toc.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/microsite/toc/toc.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/global-ui/default/toc/toc.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/toc.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/main-content/_main-content.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/styles/fonts/social-rounded/.fontcustom-manifest.json",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/styles/src/_mixins.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/services/modalservice.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/styles/src/_modal.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/social-widget/social-widget.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/social-widget/social-widget.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/styles/src/style.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page2.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page10.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page1.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page3.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page4.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page5.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page6.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/page7.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/views/layout_test/social-widget.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/socialhub/socialaggregator.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/socialhub/infinitescroll.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/socialhub/feeds.json",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/socialhub/socialhub.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/socialhub/socialhub.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/social/social.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/social/social.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/scripts/app.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/social-widget/_social-widget.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/socialhub/_socialhub.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/double-article/double-article.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/modules/double-article/_double-article.scss",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/n2-appshells.sublime-project",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/index.html",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/content/config.json",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/sections/content-stack/content-stack-redux.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/services/observerservice.js",
+		"/Users/gillesdemey/Documents/Subatomic/n2-appshells/web/styles/fonts/social-rounded/output/social-rounded-preview.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 276.0,
+		"where_history":
+		[
+			"",
+			"*.html",
+			"",
+			"*.js",
+			"*.html",
+			"",
+			"*.js",
+			".",
+			".scss",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			".scss",
+			"",
+			"*.scss",
+			"*.js",
+			"",
+			".scss",
+			"",
+			"*.html",
+			"",
+			"*.scss",
+			"",
+			"![*.scss]",
+			"!*.scss",
+			"*.html",
+			".html",
+			"",
+			"*.scss",
+			".scss",
+			"",
+			".scss",
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0",
+			"quote",
+			"pre",
+			"theme",
+			"MB",
+			"536870912",
+			"8589934592",
+			".bytes",
+			"bytes",
+			"2199023255552",
+			"#byte",
+			"it",
+			"describe",
+			"8589934592",
+			"unit",
+			"this",
+			"key",
+			"networkInter",
+			"/sysinfo",
+			"map",
+			"  \n",
+			"exports",
+			"routes",
+			"dustjs",
+			"var",
+			"javascripts",
+			"{{",
+			"}}",
+			"engine",
+			"routes",
+			"map",
+			"arr",
+			"=",
+			"()",
+			"    \n",
+			"interfaces",
+			"moment",
+			"()",
+			"sm-inner",
+			".sm-inner",
+			"onlineS",
+			"socialhub",
+			"social",
+			"component",
+			"<div class=\"n2-studio-grid n2-background v-scrollable\" scrollable style=\"background-color:#F2F2F2; overflow-x: auto;\" style=\"height:100%\">\n  <div social-widget></div>\n</div>",
+			"getPosts",
+			"iconForProvider",
+			"posts",
+			"post.image",
+			"social-rounded",
+			"posts",
+			"250",
+			"socialwidget",
+			"socialhub",
+			"filters",
+			"filter",
+			"loadPosts",
+			"scope.posts",
+			"setImageSizeAndWookmark",
+			"feeds.json",
+			"json",
+			"socialhub",
+			"socialHub",
+			"page2",
+			"[scrollable]",
+			".v-scrollable",
+			".scrollable",
+			"lato",
+			"'lato';",
+			"lato;",
+			"latoBold",
+			"lato",
+			"v-scrollable",
+			"scrollable",
+			"matrix",
+			"enter",
+			"scrollable",
+			"main-content-container",
+			"swipe",
+			"transitionToPosition",
+			"swipe",
+			"scope.swipe",
+			"scope.swip",
+			"cart.html",
+			"swipe",
+			"swipe-element",
+			"shoppin",
+			"close",
+			"edit",
+			"<div class=\"ss-icon ss-write\"></div>",
+			"bold",
+			"<div class=\"item-edit\"></div>",
+			"self.",
+			"self",
+			"var",
+			"self.",
+			"};",
+			"this.",
+			"content-s",
+			"content",
+			"self.scope.direction",
+			"parallax",
+			"Logo",
+			"logo",
+			"28px",
+			"span",
+			"shoppingCartVisible",
+			"Bag",
+			">\n",
+			"ng-include",
+			"nh-include",
+			"isShoppingBagVisible",
+			".n2-editable-background",
+			"transform:translate3d(0,0,0);",
+			"transform",
+			".pane",
+			"tumblr",
+			"s3",
+			"span",
+			"offline",
+			"tips.html",
+			"tip-text",
+			"ng-show",
+			"shareHeader",
+			"entypo-social",
+			"swipe-element",
+			"hide",
+			"$session"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"keydown",
+			"global-realestate",
+			"chartsService",
+			"comtes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								167
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "x-blink.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "what-are-web-components.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "who-are-we.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "belgium.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "web-components.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/gillesdemey/Documents/Talks/A Brave New Web/slides/templates/_index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2169,
+								2169
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 503.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "list.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "web-components.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_inde",
+				"templates/_index.html"
+			],
+			[
+				"hi",
+				"slides/history.html"
+			],
+			[
+				"reveal",
+				"bower_components/reveal.js/js/reveal.js"
+			],
+			[
+				"form",
+				"wheatley-formatters/format.js"
+			],
+			[
+				"system",
+				"wheatley/public/settings/system.dust"
+			],
+			[
+				"content",
+				"web/sections/main-content/main-content.html"
+			],
+			[
+				"config",
+				"web/content/config.json"
+			],
+			[
+				"global-ui",
+				"web/sections/global-ui/microsite/global-ui.js"
+			],
+			[
+				"modal",
+				"web/styles/src/_modal.scss"
+			],
+			[
+				"social-",
+				"web/content/views/layout_test/social-widget.html"
+			],
+			[
+				"page",
+				"web/content/views/layout_test/page2.html"
+			],
+			[
+				"social-widget",
+				"web/modules/social-widget/social-widget.html"
+			],
+			[
+				"socialhub.",
+				"web/modules/socialhub/_socialhub.scss"
+			],
+			[
+				"mod",
+				"web/styles/src/_modal.scss"
+			],
+			[
+				"app",
+				"web/scripts/app.js"
+			],
+			[
+				"conf",
+				"web/content/config.json"
+			],
+			[
+				"social",
+				"web/modules/social-widget/social-widget.html"
+			],
+			[
+				"socialwi",
+				"web/modules/social-widget/social-widget.html"
+			],
+			[
+				"observer",
+				"web/services/observerservice.js"
+			],
+			[
+				"app.js",
+				"web/scripts/app.js"
+			],
+			[
+				"page2",
+				"web/content/views/layout_test/page2.html"
+			],
+			[
+				"page1",
+				"web/content/views/layout_test/page1.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"fee",
+				"web/modules/socialhub/feeds.json"
+			],
+			[
+				"feed",
+				"web/modules/socialhub/feeds.json"
+			],
+			[
+				"toc.",
+				"web/sections/global-ui/default/toc/toc.html"
+			],
+			[
+				"social-wid",
+				"web/modules/social-widget/social-widget.js"
+			],
+			[
+				"socialhub.scss",
+				"web/modules/socialhub/_socialhub.scss"
+			],
+			[
+				"social-widg",
+				"web/modules/social-widget/social-widget.html"
+			],
+			[
+				"index",
+				"web/index.html"
+			],
+			[
+				"filter",
+				"web/scripts/filters.js"
+			],
+			[
+				"socialhub",
+				"web/modules/socialhub/socialhub.html"
+			],
+			[
+				"confi",
+				"web/content/config.json"
+			],
+			[
+				"theme.scss",
+				"web/theme/styles/theme.scss"
+			],
+			[
+				"ind",
+				"web/index.html"
+			],
+			[
+				"mani",
+				"web/styles/fonts/social-rounded/.fontcustom-manifest.json"
+			],
+			[
+				"gizmo",
+				"web/styles/src/_ss-gizmo.scss"
+			],
+			[
+				"scroll",
+				"web/sections/global-ui/microsite/global-ui.js"
+			],
+			[
+				"scrolla",
+				"web/sections/global-ui/microsite/global-ui.js"
+			],
+			[
+				"microsite",
+				"web/sections/global-ui/microsite/global-ui.html"
+			],
+			[
+				"contentstac",
+				"web/services/contentstackservice.js"
+			],
+			[
+				"inde",
+				"web/index.html"
+			],
+			[
+				"cart",
+				"web/sections/shop/cart.html"
+			],
+			[
+				"global",
+				"web/sections/global-ui/global-ui.js"
+			],
+			[
+				"global-ui.js",
+				"web/sections/global-ui/default/global-ui.js"
+			],
+			[
+				"red",
+				"web/sections/content-stack/content-stack-redux.js"
+			],
+			[
+				"cont",
+				"web/sections/content-stack/content-stack.js"
+			],
+			[
+				"services",
+				"web/scripts/services.js"
+			],
+			[
+				"style",
+				"web/styles/src/style.scss"
+			],
+			[
+				"toc.scss",
+				"web/sections/global-ui/default/toc/_toc.scss"
+			],
+			[
+				"ss-gizmo",
+				"web/styles/src/_ss-gizmo.scss"
+			],
+			[
+				"toc",
+				"web/sections/global-ui/default/toc/toc.html"
+			],
+			[
+				"tips",
+				"web/sections/global-ui/default/tips.html"
+			],
+			[
+				"share.js",
+				"web/sections/share/share.js"
+			],
+			[
+				"glo",
+				"web/sections/global-ui/default/global-ui.js"
+			],
+			[
+				"share",
+				"web/sections/share/share.js"
+			],
+			[
+				"mi",
+				"web/styles/src/_mixins.scss"
+			],
+			[
+				"login",
+				"web/sections/login/_login.scss"
+			],
+			[
+				"appshell.css",
+				"web/sections/appshell/_appshell.scss"
+			],
+			[
+				"login.i",
+				"web/sections/login/login.js"
+			],
+			[
+				"l",
+				"web/sections/login/login.html"
+			],
+			[
+				"mix",
+				"web/styles/src/_mixins.scss"
+			],
+			[
+				"mii",
+				"web/styles/src/_mixins.scss"
+			],
+			[
+				"mixin",
+				"web/styles/src/_mixins.scss"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"sharesc",
+				"web/sections/share/shareScreen.html"
+			],
+			[
+				"share.scss",
+				"web/sections/share/_shareLink.scss"
+			],
+			[
+				"session",
+				"web/services/session.js"
+			],
+			[
+				"logi",
+				"web/sections/login/login.js"
+			],
+			[
+				"content-sta",
+				"web/sections/content-stack/content-stack.js"
+			],
+			[
+				"jan",
+				"web/services/janrain.js"
+			],
+			[
+				"_login",
+				"web/sections/login/_login.scss"
+			],
+			[
+				"sevri",
+				"web/services/session.js"
+			],
+			[
+				"toc.html",
+				"web/sections/global-ui/default/toc/toc.html"
+			],
+			[
+				"in",
+				"web/index.html"
+			],
+			[
+				"m",
+				"web/services/modalService.js"
+			],
+			[
+				"mixins",
+				"web/styles/src/_mixins.scss"
+			],
+			[
+				"modals",
+				"web/services/modalService.js"
+			],
+			[
+				"tweet",
+				"web/sections/modals/tweet.html"
+			],
+			[
+				"modal.scss",
+				"web/modules/socialhub/_socialhub.scss"
+			],
+			[
+				"twe",
+				"web/sections/modals/tweet.html"
+			],
+			[
+				"feeds",
+				"web/modules/socialhub/feeds.json"
+			],
+			[
+				"confg",
+				"web/content/config.json"
+			],
+			[
+				"app.html",
+				"web/sections/appshell/app.html"
+			],
+			[
+				"waff",
+				"web/sections/global-ui/waffle.js"
+			],
+			[
+				"global-ui.",
+				"web/sections/global-ui/microsite/global-ui.js"
+			],
+			[
+				"conten",
+				"web/services/contentstackservice.js"
+			],
+			[
+				"tablet",
+				"web/sections/global-ui/default/toc/_tablet.scss"
+			],
+			[
+				"micrositetoc",
+				"web/sections/global-ui/microsite/toc/toc.html"
+			],
+			[
+				"waffle",
+				"web/sections/global-ui/waffle.html"
+			],
+			[
+				"waffl",
+				"web/sections/global-ui/waffle.js"
+			],
+			[
+				"colr",
+				"web/sections/global-ui/microsite/_colors.scss"
+			],
+			[
+				"_toc",
+				"web/sections/global-ui/microsite/_toc.scss"
+			],
+			[
+				"contentstackservice",
+				"web/services/contentStackService.js"
+			],
+			[
+				"waf",
+				"web/sections/global-ui/waffle.js"
+			],
+			[
+				"global-ui.html",
+				"web/sections/global-ui/default/global-ui.html"
+			],
+			[
+				"_waffle",
+				"web/sections/global-ui/waffle/_waffle.scss"
+			],
+			[
+				"obser",
+				"web/services/observerservice.js"
+			],
+			[
+				"charts",
+				"web/content/views/layout_test/charts.html"
+			],
+			[
+				"global-uio.",
+				"web/sections/global-ui/microsite/global-ui.html"
+			],
+			[
+				"glbal",
+				"web/sections/global-ui/microsite/global-ui.html"
+			],
+			[
+				"wa",
+				"web/sections/global-ui/waffle/_waffle.scss"
+			],
+			[
+				"waffle.scss",
+				"web/sections/global-ui/waffle/_waffle.scss"
+			],
+			[
+				"-global-ui.js",
+				"web/sections/global-ui/microsite/global-ui.js"
+			],
+			[
+				"service",
+				"web/scripts/services.js"
+			],
+			[
+				"global-io",
+				"web/sections/global-ui/global-ui.js"
+			],
+			[
+				"content-s",
+				"web/sections/content-stack/content-stack.js"
+			],
+			[
+				"cone",
+				"web/sections/content-stack/content-stack.html"
+			],
+			[
+				"globa",
+				"web/sections/global-ui/microsite/global-ui.html"
+			],
+			[
+				"config.",
+				"web/content/config.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"waffe",
+				"web/sections/global-ui/waffle.js"
+			],
+			[
+				"waffme",
+				"web/sections/global-ui/waffle.html"
+			],
+			[
+				"conte",
+				"web/services/contentStackService.js"
+			],
+			[
+				"contents",
+				"web/services/contentStackService.js"
+			],
+			[
+				"global-ui.scss",
+				"web/sections/global-ui/default/_global-ui.scss"
+			],
+			[
+				"default/global",
+				"web/sections/global-ui/default/global-ui.js"
+			],
+			[
+				"con",
+				"web/content/config.json"
+			],
+			[
+				"content-st",
+				"web/sections/content-stack/content-stack.js"
+			],
+			[
+				"confog",
+				"web/content/config.json"
+			],
+			[
+				"font",
+				"web/styles/fonts/ss-gizmo.js"
+			],
+			[
+				"horizontal",
+				"web/sections/content-stack/horizontalstateservice.js"
+			],
+			[
+				"state",
+				"web/sections/content-stack/panestate.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"ndex",
+				"web/index.html"
+			],
+			[
+				"micrositeglobal",
+				"web/sections/global-ui/microsite/global_ui.html"
+			],
+			[
+				"gloal-ui.scss",
+				"web/sections/global-ui/microsite/_global-ui.scss"
+			],
+			[
+				"bowr",
+				"bower.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/aperture/wheatley.sublime-project"
+			],
+			[
+				"n2",
+				"~/Documents/Subatomic/n2lib/n2lib.sublime-project"
+			],
+			[
+				"n2li",
+				"~/Documents/Subatomic/n2lib/n2lib.sublime-project"
+			],
+			[
+				"n2lib",
+				"~/Documents/Subatomic/n2lib/n2lib.sublime-project"
+			],
+			[
+				"app",
+				"~/Documents/Subatomic/n2-appshells/n2-appshells.sublime-project"
+			],
+			[
+				"layouts",
+				"~/Documents/Subatomic/n2-layouts/n2-layouts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
