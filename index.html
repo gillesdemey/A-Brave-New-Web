@@ -12,17 +12,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
-
     <link rel="stylesheet" href="css/night.css" id="theme">
-
 
     <!-- For syntax highlighting -->
     <link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css" id="highlight-theme">
 
+    <!-- Load Platform -->
+    <script src="bower_components/platform/platform.js"></script>
+    <!-- <script src="bower_components/polymer/polymer.js"></script> -->
+
+    <!-- Load web components -->
+    <link rel="import" href="../bower_components/polymer/polymer.html">
+    <link rel="import" href="elements/x-blink.html">
+
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
       document.write( '<link rel="stylesheet" href="bower_components/reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
-  </script>
+    </script>
 
         <!--[if lt IE 9]>
         <script src="lib/js/html5shiv.js"></script>
