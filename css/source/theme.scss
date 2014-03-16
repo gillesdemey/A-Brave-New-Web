@@ -29,11 +29,11 @@ $mainColor: rgba(0,0,0,0.5);
 // Headings
 $headingMargin: 0 0 20px 0;
 $headingFont: "Montserrat", Impact, sans-serif;
-$headingColor: rgba(0,0,0,0.5);
+$headingColor: rgba(0,0,0,0.75);
 $headingLineHeight: 0.9em;
 $headingLetterSpacing: -0.03em;;
 $headingTextTransform: none;
-$headingTextShadow: 0px 0px 6px rgba(0,0,0,0.2);
+$headingTextShadow: none; //$headingTextShadow: 0px 0px 6px rgba(0,0,0,0.2);
 $heading1TextShadow: $headingTextShadow;
 
 // Links and actions
