@@ -1,0 +1,41 @@
+{
+  "name": "prism-js",
+  "version": "0.0.2",
+  "authors": [
+    "Addy Osmani <addyosmani@gmail.com>"
+  ],
+  "description": "A Polymer element for syntax highlighting with Prism.js",
+  "main": "src/prism-js.html",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "highlighting",
+    "syntax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.2.0",
+    "polymer": "Polymer/polymer#~0.2.0",
+    "prismjs": "*",
+    "he": "~0.3.6"
+  },
+  "homepage": "https://github.com/addyosmani/prism-js",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.2",
+    "commit": "69251b3094cb389c06626dea9c827e549f26f605"
+  },
+  "_source": "git://github.com/addyosmani/prism-js.git",
+  "_target": "~0.0.2",
+  "_originalSource": "prism-js",
+  "_direct": true
+}
