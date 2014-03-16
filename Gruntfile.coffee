@@ -31,7 +31,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
             sass:
                 files: ['css/source/theme.scss']
                 tasks: ['sass']
@@ -41,7 +41,7 @@ module.exports = (grunt) ->
             theme:
                 files:
                     'css/theme.css': 'css/source/theme.scss'
-        
+
         connect:
 
             livereload:
@@ -51,7 +51,7 @@ module.exports = (grunt) ->
                     # the server from outside.
                     hostname: 'localhost'
                     base: '.'
-                    open: true
+                    open: false
                     livereload: true
 
         coffeelint:

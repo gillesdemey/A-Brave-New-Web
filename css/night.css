@@ -134,3 +134,13 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #e7ad52; }
+
+.reveal pre code {
+  padding: 0;
+  margin: 0;
+}
+
+.reveal pre {
+  font-size: .8em;
+  line-height: 1.5em;
+}
