@@ -24,7 +24,7 @@ $backgroundColor: #f6f5f6;
 // Primary/body text
 $mainFont: 'Lato', sans-serif;
 $mainFontSize: 36px;
-$mainColor: #eee;
+$mainColor: rgba(0,0,0,0.5);
 
 // Headings
 $headingMargin: 0 0 20px 0;
@@ -59,6 +59,12 @@ $selectionColor: #fff;
 // See ../../bower_components/reveal.js/css/theme/README.md
 // for further explanations on how reveal.js themes work.
 
+.reveal blockquote {
+  border-radius: 4px;
+  background-color: #f5f2f0;
+  box-shadow: 0 0 6px rgba(0,0,0,.3);
+}
+
 .reveal pre code {
   padding: 0;
   margin: 0;
@@ -66,7 +72,7 @@ $selectionColor: #fff;
 
 .reveal pre {
   border-radius: 6px;
-  padding-top: 0 !important;
+  padding-top: 10px !important;
   padding-bottom: 0 !important;
   font-size: .8em;
   line-height: 1.5em;
