@@ -77,3 +77,15 @@ $selectionColor: #fff;
   font-size: .8em;
   line-height: 1.5em;
 }
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveak h5,
+.reveal h6 {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
