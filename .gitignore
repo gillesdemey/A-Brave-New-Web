@@ -4,6 +4,8 @@ dist
 *.log
 .sass-cache
 
+index.html
+/elements/prism-js/components
 /css/*.css
 
 /.DS_Store
