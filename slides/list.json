@@ -6,7 +6,12 @@
     "x-blink.html",
     "what-are-web-components.html",
     "history.html",
-    "x-author.html",
+    "jquery.html",
+    "applets.html",
+    "webcontrols.html",
+    "yuck.html",
+    "angular.html",
+    "react.html",
     "html-templates.html",
     "html-templates-declaration.html"
 ]
