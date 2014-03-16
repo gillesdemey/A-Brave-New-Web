@@ -1,0 +1,37 @@
+<polymer-element name="x-author" attributes="name twitter github">
+
+  <template>
+    <style>
+      :host {
+        width: auto;
+        display: block;
+        background-color: #E2E2E2;
+      }
+
+      :host::unresolved {
+        opacity: 0;
+      }
+
+      :host:unresolved:after {
+        content: 'loading...';
+        color: #ccc;
+      }
+    </style>
+
+    <div class="author-container">
+      <div class="avatar"></div>
+      <div class="description"></div>
+      <content></content>
+    </div>
+
+  </template>
+
+  <script>
+    Polymer('x-author', {
+      ready: function () {
+        console.log('x-author ready');
+      }
+    });
+  </script>
+
+</polymer-element>
