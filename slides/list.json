@@ -14,5 +14,7 @@
     "ember.html",
     "react.html",
     "html-templates.html",
-    "html-templates-declaration.html"
+    "html-templates-declaration.html",
+    "html-templates-usage.html",
+    "html-templates-demo.html"
 ]
