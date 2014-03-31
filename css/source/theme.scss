@@ -59,6 +59,10 @@ $selectionColor: #fff;
 // See ../../bower_components/reveal.js/css/theme/README.md
 // for further explanations on how reveal.js themes work.
 
+.token.operator {
+  background: none !important;
+}
+
 .reveal blockquote {
   border-radius: 4px;
   background-color: #f5f2f0;
@@ -71,11 +75,17 @@ $selectionColor: #fff;
 }
 
 .reveal pre {
+  font-family: 'Consolas';
+
   border-radius: 6px;
   padding-top: 10px !important;
   padding-bottom: 0 !important;
   font-size: .8em;
   line-height: 1.5em;
+
+  letter-spacing: initial;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
 .reveal h1,
