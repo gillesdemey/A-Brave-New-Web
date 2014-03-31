@@ -59,6 +59,24 @@ $selectionColor: #fff;
 // See ../../bower_components/reveal.js/css/theme/README.md
 // for further explanations on how reveal.js themes work.
 
+.reveal {
+
+  .qrcode {
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+
+    table {
+      height: 100%;
+      width: 100%;
+
+      border: none !important;
+      background-color: transparent !important;
+    }
+  }
+
+}
+
 .token.operator {
   background: none !important;
 }
