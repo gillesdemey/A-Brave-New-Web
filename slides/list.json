@@ -5,9 +5,9 @@
     "web-components.html",
     "points.html",
     "support.html",
+    "what-are-web-components.html",
     "x-blink.html",
     "website.html",
-    "what-are-web-components.html",
     "history.html",
     "jquery.html",
     "applets.html",
@@ -19,5 +19,8 @@
     "html-templates.html",
     "html-templates-declaration.html",
     "html-templates-usage.html",
-    "html-templates-demo.html"
+    "html-templates-demo.html",
+    "shadow.html",
+    "customelements.html",
+    "imports.html"
 ]
