@@ -1,15 +1,16 @@
 <h2>HTML templates: Usage</h2>
 
-<prism-js language="markup" linenumbers="true" escape="true">
+<prism-js style="font-size: 1.7rem;" language="markup" linenumbers="true" escape="true">
 <script>
 function addComment(imageUrl, text) {
-  var t = document.querySelector('#commentTemplate');
-  // Clone the node
-  var comment = t.content.cloneNode(true);
-  // Populate content.
-  comment.querySelector('img').src = imageUrl;
-  comment.querySelector('.comment-text').textContent = text;
-  // Add it to the document
-  document.body.appendChild(comment);
+  var content = document.querySelector('#commentTemplate').content;
+  var image   = content.querySelector('img');
+  var comment = content.querySelector('.comment-text');
+
+  image.src = imageUrl;
+  comment   = text;
+
+  var insertPoint = document.querySelector('.templates-demo-yield');
+  insertPoint.appendChild(content.cloneNode(true));
 }
 </script></prism-js>

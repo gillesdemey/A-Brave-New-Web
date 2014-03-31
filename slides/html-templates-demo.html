@@ -1,39 +1,38 @@
 <h2>HTML templates: Demo</h2>
 
 <prism-js style="font-size: 1.5rem;" language="markup" linenumbers="true" escape="true">
+<button onclick="addComment('avatar.jpg', 'Web Components are amazing!')">
+  Add Comment
+</button>
 <template id="commentTemplate">
   <img src="">
   <div class="comment-text"></div>
 </template>
-<button onclick="addComment('avatar.jpg', 'Web Components are amazing!')">
-  Add Comment
-</button>
 <script>
-function addComment(avatar, text) {
+function addComment(imageUrl, text) {
   var content = document.querySelector('#commentTemplate').content;
   var image   = content.querySelector('img');
   var comment = content.querySelector('.comment-text');
 
-  image.src = avatar;
+  image.src = imageUrl;
   comment   = text;
 
   var insertPoint = document.querySelector('.yield');
   insertPoint.appendChild(content.cloneNode(true));
 }
 </script></prism-js>
-
+<button class="stampOut">Add Comment</button>
 <template id="commentTemplate">
   <img src="">
   <div class="comment-text"></div>
 </template>
-<button class="stampOut">Stamp</button>
 <script class="live">
-  function addComment(avatar, text) {
+  function addComment(imageUrl, text) {
     var content = document.querySelector('#commentTemplate').content;
     var image   = content.querySelector('img');
     var comment = content.querySelector('.comment-text');
 
-    image.src = avatar;
+    image.src = imageUrl;
     comment   = text;
 
     var insertPoint = document.querySelector('.templates-demo-yield');
