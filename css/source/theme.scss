@@ -181,4 +181,9 @@ $selectionColor: #fff;
     line-height: 80px;
     padding: 0 15px;
   }
+
+  img.no-style {
+      border: none !important;
+      box-shadow: none !important;
+  }
 }
