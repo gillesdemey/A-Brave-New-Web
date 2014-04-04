@@ -128,3 +128,8 @@ $selectionColor: #fff;
   -ms-hyphens: none;
   hyphens: none;
 }
+
+img.no-style {
+    border: none !important;
+    box-shadow: none !important;
+}
