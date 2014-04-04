@@ -5,14 +5,12 @@
     "web-components.html",
     "what-are-web-components.html",
     "points.html",
-    "support.html",
-    "polymer.html",
     "x-blink.html",
     "website.html",
     "history.html",
-    "jquery.html",
     "applets.html",
     "webcontrols.html",
+    "jquery.html",
     "yuck.html",
     "angular.html",
     "ember.html",
@@ -25,5 +23,7 @@
     "shadow.html",
     "shadow-intro.html",
     "customelements.html",
-    "imports.html"
+    "imports.html",
+    "support.html",
+    "polymer.html"
 ]
