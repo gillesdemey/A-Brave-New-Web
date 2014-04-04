@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
   <h2>HTML templates: Demo</h2>
 
   <prism-js style="font-size: 1.5rem;" language="markup" linenumbers="true" escape="true">
@@ -24,28 +24,30 @@
     insertPoint.appendChild(content.cloneNode(true));
   }
   </script></prism-js>
-</section>
+</section> -->
 
 <section style="min-height: 600px;">
-  <style>
-    .stampOut {
-      position: absolute;
-
-      top: 50px;
-      left: 50px;
-
-      font-size: 0.8em;
-      display: block;
-    }
-  </style>
-  <button class="stampOut">Add Comment</button>
+  <h2>HTML templates: Demo</h2>
+  <button type="button" class="stampOut">Add Comment</button>
 
   <template id="commentTemplate">
-    <img src="">
-    <div class="comment-text"></div>
+    <div class="comment">
+      <img height="80" width="80" src="">
+      <div class="comment-text"></div>
+    </div>
   </template>
 
   <script class="live">
+  function guid() {
+    function s4() {
+      return Math.floor((1 + Math.random()) * 0x10000)
+                 .toString(16)
+                 .substring(1);
+    }
+    return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+           s4() + '-' + s4() + s4() + s4();
+  }
+
     function addComment(imageUrl, text) {
       var content = document.querySelector('#commentTemplate').content;
       var image   = content.querySelector('img');
@@ -60,9 +62,9 @@
 
     var stampOutButton = document.querySelector('.stampOut');
     stampOutButton.onclick = function () {
-      addComment('https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t1.0-1/c64.0.399.399/s160x160/561687_5001379800301_929546795_n.jpg', 'Web Components are amazing!');
+      addComment('http://identicon.org?t=' + guid() + '&s=80', 'Web Components are amazing!');
     };
   </script>
 
-  <yield class="templates-demo-yield"></yield>
+  <yield style="display: block;position: relative;margin-top: 80px;" class="templates-demo-yield"></yield>
 </section>
