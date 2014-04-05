@@ -31,6 +31,43 @@
   <button type="button" class="stampOut">Add Comment</button>
 
   <template id="commentTemplate">
+    <style>
+        .comment {
+          width: auto;
+          position: relative;
+          display: block;
+
+          // float: left;
+
+          height: 80px;
+          background-color: #fff;
+          border-radius: 5px;
+          border: 1px solid #ccc !important;
+
+          margin-top: 10px !important;
+        }
+        .comment img {
+          float: left;
+          display: block;
+          height: 80px;
+          width: 80px;
+
+          margin: 0 !important;
+          border: none !important;
+
+          box-shadow: none !important;
+
+          max-width: initial;
+          max-height: initial;
+        }
+        .comment .comment-text {
+          height: 100%;
+          float: left;
+
+          line-height: 80px;
+          padding: 0 15px;
+        }
+    </style>
     <div class="comment">
       <img height="80" width="80" src="">
       <div class="comment-text"></div>

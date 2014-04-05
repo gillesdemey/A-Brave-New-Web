@@ -1,0 +1,14 @@
+<div id="inspect"></div>
+<br>
+<img src="assets/enable-shadow-dom.png" alt="">
+
+<div id="inspectTemplate">
+  <h2>Inspecting Shadow DOM</h2>
+</div>
+
+<script class="live">
+  var shadow = document.querySelector('#inspect').createShadowRoot();
+  var template = document.querySelector('#inspectTemplate');
+  shadow.innerHTML = template.innerHTML;
+  template.remove();
+</script>
