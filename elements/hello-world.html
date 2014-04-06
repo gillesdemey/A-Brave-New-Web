@@ -1,0 +1,14 @@
+<element name="hello-world" constructor="HelloWorld">
+  <section>Hello World!</section>
+  <script>
+    var section = this.querySelector('section');
+    this.register({
+      prototype: {
+        readyCallback: function () {
+          this.textContent = section.textContent; // this == <element>
+        },
+        foo: function () { alert('foo() called'); }
+      }
+    });
+  </script>
+</element>

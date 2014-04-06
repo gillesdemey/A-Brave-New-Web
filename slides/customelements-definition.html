@@ -1,0 +1,20 @@
+<section>
+  <h2>Custom Element Definition</h2>
+
+  <prism-js language="markup" escape="true" style="font-size: 1.7rem;">
+  <element name="hello-world" constructor="HelloWorld">
+    <details>Hello World!</details>
+    <script>
+      this.register({
+        prototype: {
+          readyCallback: function () {
+            // Component is ready
+          },
+          announce: function () { alert('Hello World!'); }
+        }
+      });
+    </script>
+  </element>
+
+  <hello-world></hello-world></prism-js>
+</section>
