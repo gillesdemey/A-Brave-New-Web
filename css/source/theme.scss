@@ -88,6 +88,11 @@ $selectionColor: #fff;
 
 }
 
+prism-js {
+    box-shadow: 0 0 6px rgba(0,0,0,.3);
+    border-radius: 4px;
+}
+
 .reveal blockquote {
   border-radius: 4px;
   background-color: #f5f2f0;
