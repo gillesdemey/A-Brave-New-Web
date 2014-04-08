@@ -1,12 +1,13 @@
 <section>
 
   <div id="inspect"></div>
-  <br>
-  <img src="assets/enable-shadow-dom.png" alt="">
+  <!-- <img src="assets/enable-shadow-dom.png" alt=""> -->
 
   <div id="inspectTemplate">
     <h2>Inspecting Shadow DOM</h2>
   </div>
+
+  <video controls src="http://mirrorblender.top-ix.org/movies/sintel-1024-surround.mp4"></video>
 
   <script class="live">
     var shadow = document.querySelector('#inspect').createShadowRoot();
@@ -16,8 +17,12 @@
   </script>
 
   <aside class="notes">
+    Show shadow DOM option
+    <br><br>
     Try with document.querySelector('#inspect h2');<br>
     returns null;
+    <br><br>
+    There's a reason I have this video here.
     <br><br>
     Show video tag shadow DOM example
   </aside>
