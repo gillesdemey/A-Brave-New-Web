@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "reveal.js": "~2.6.1",
-    "polymer": "~0.2.0",
+    "polymer": "0.2.2",
     "qr-code": "educastellano/qr-code#gh-pages"
   }
 }
